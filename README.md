@@ -1,4 +1,4 @@
-# Hi, I'm Tinyiko Mathebula 👋
+# Hi, I'm Tinyiko Patience Mathebula 👋
 
 **Data Analyst** | Python · SQL · Power BI · Machine Learning | Johannesburg, Gauteng
 
