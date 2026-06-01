@@ -1,53 +1,63 @@
 # Hi, I'm Tinyiko Mathebula 👋
-### Business Informatics Professional | Systems Analyst | SQL & Database Specialist 
 
-I specialize in bridging the gap between business operations and technical architecture. With over 8 years of professional experience and a BCom in Business Informatics (UNISA), I build **high-integrity relational databases** and **data-driven solutions** designed to meet the rigorous standards of South Africa’s Financial and Educational sectors.
-
----
-
-### 🛠️ Technical Ecosystem
-* **Databases:** MySQL (Advanced), PostgreSQL, MS SQL Server, Oracle DB.
-* **Analysis & BI:** Advanced SQL (CTEs, Window Functions), Tableau, Power BI, Excel (Power Query/Pivot).
-* **Core Systems:** 3rd Normal Form (3NF) Normalization, Data Governance (POPIA), ETL, SDLC.
-* **Web Tech:** Full-Stack Fundamentals (HTML5, CSS3, JavaScript), Git/Version Control.
+**Data Analyst** | Python · SQL · Power BI · Machine Learning | Johannesburg, Gauteng
 
 ---
 
-### 🚀 Strategic Portfolio: Industry-Aligned Solutions
-*Each project below was architected to solve specific technical requirements found in real-world South African corporate job descriptions.*
+## 🎯 What I Do
 
-#### 🏦 [Enterprise Banking Database System](https://github.com/Tinyiko-Mathebula/enterprise_banking_database_system)
-**Target:** *Retail Banking Data Analyst / Junior DBA*
-* **The Brief:** Built to satisfy tier-1 banking requirements for security and concurrency.
-* **Key Features:** 3NF Architecture, **Transaction Control**, **Audit Logging**, and **Fraud Detection logic**.
+I build end-to-end data solutions — from relational database design and SQL analysis through to machine learning pipelines and business intelligence dashboards.
 
-#### 📈 [Experian Data Administrator Portfolio](https://github.com/Tinyiko-Mathebula/Experian_Data_Administrator_Portfolio)
-**Target:** *Credit Bureau Data Admin / Financial Services Ops*
-* **The Brief:** Mapped to the technical KPIs of global credit information services.
-* **Key Features:** SQL Data Cleansing, **SLA Performance Monitoring**, and Executive Excel Dashboards.
-
-#### 📑 [Pension Data SQL Analytics & Auditing](https://github.com/Tinyiko-Mathebula/pension-data-sql-project)
-**Target:** *Compliance Specialist / Fund Administrator*
-* **The Brief:** Solving data accuracy challenges for the SA Pension Fund industry.
-* **Key Features:** Contribution Analysis, **Data Quality Auditing**, and Automated Regulatory Reporting.
-
-#### 🎓 [Enterprise Enrollment Management Database](https://github.com/Tinyiko-Mathebula/enterprise-enrollment-management-database)
-**Target:** *Systems Analyst (EdTech / Operations)*
-* **The Brief:** Managing complex academic workflows and large-scale student datasets.
-* **Key Features:** Schema Design, **DDL Management**, and **Performance Indexing**.
+I bring something most analysts at my level don't: **8+ years of operational data experience** managing POPIA-compliant systems, designing reporting workflows, and delivering insights to leadership — before formally transitioning into data analytics.
 
 ---
 
-### 📈 Career Trajectory
-* 🎓 **BCom Business Informatics Finalist** @ UNISA (Expected Nov 2026).
-* 🔒 **Focus:** Advancing Data Governance frameworks and automated SQL auditing.
-* 🌍 **Location:** Gauteng, South Africa (Open to On-site, Hybrid, & Remote).
+## 🚀 Featured Projects
+
+| Project | What it proves | Tools |
+|---|---|---|
+| [Credit Risk Intelligence Platform](https://github.com/Tinyiko-Mathebula/dataquest-2026-credit-risk) | Improved model AUC from 0.68 → 0.7822. DataQuest 2026 competition. | Python, Scikit-Learn, Streamlit |
+| [Customer Churn Prediction](https://github.com/Tinyiko-Mathebula/python-churn_analysis.py) | 0.77 AUC · 3 models compared · catches 65% of churners | Python, Scikit-Learn, pandas |
+| [Retail Sales & RFM Segmentation](https://github.com/Tinyiko-Mathebula/retail-sales-analysis) | 25,000 transactions · top 20% of customers = 83.6% of revenue | Python, MySQL, pandas |
+| [Enterprise Banking Database](https://github.com/Tinyiko-Mathebula/enterprise_banking_database_system) | 3NF design · audit logging · fraud detection logic | MySQL, SQL |
+| [Telecom Churn Dashboard](https://github.com/Tinyiko-Mathebula/Telecom_Cutomer_Churn_Powerbi) | Interactive KPI dashboard · DAX measures · churn driver analysis | Power BI, DAX |
+| [Pension Data SQL Analytics](https://github.com/Tinyiko-Mathebula/pension-data-sql-project) | Contribution auditing · data quality · regulatory reporting | MySQL, SQL |
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/tinyiko-patience-mathebula-a2350911a/
-* **Professional Email:** tpatiencemathebula@gmail.com
-* **Personal Portfolio:** Coming Soon
+## 🛠️ Technical Stack
+
+**Languages & Analysis**
+`Python` `SQL` `MySQL` `pandas` `NumPy` `scikit-learn` `matplotlib` `seaborn`
+
+**Machine Learning**
+`Logistic Regression` `Random Forest` `Gradient Boosting` `Feature Engineering` `WoE/IV Analysis`
+
+**Business Intelligence**
+`Microsoft Power BI` `DAX` `Tableau` `Streamlit` `Excel (Advanced)`
+
+**Databases & Governance**
+`Relational Database Design` `3NF Normalisation` `Oracle Database` `POPIA Compliance` `Data Quality Auditing`
+
+**Web & Tools**
+`GitHub` `HTML` `CSS` `Google Workspace` `AI-assisted workflows (Claude, ChatGPT)`
 
 ---
+
+## 📚 Currently Building
+
+- 🎓 BCom Business Informatics — UNISA (Final year, completing Nov 2026)
+- 📊 GCI 2026 DataCamp Programme — active participant
+- 👩🏾‍💻 DataCamp | Women in Data 2026 — active participant
+- 🔬 DataCamp DataLab: International Debt Statistics · Netflix Movies · Students' Mental Health
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tinyiko%20Mathebula-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tinyiko-patience-mathebula-a2350911a/)
+[![Email](https://img.shields.io/badge/Email-tpatiencemathebula%40gmail.com-D14836?style=flat&logo=gmail)](mailto:tpatiencemathebula@gmail.com)
+
+---
+
+*Open to Junior to Mid Data Analyst roles in Johannesburg · On-site · Hybrid · Remote*
