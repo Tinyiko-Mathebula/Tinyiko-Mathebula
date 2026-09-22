@@ -1,6 +1,6 @@
 # Hi, I'm Tinyiko Patience Mathebula 👋
 
-**Data Analyst** | Python · SQL · Power BI · Machine Learning | Johannesburg, Gauteng
+**Data Analyst** | Python · SQL · Power BI | Johannesburg, Gauteng
 
 ---
 
@@ -47,7 +47,7 @@ I bring something most analysts at my level don't: **8+ years of operational dat
 ## 📚 Currently Building
 
 - 🎓 BCom Business Informatics — UNISA (Final year, completing Nov 2026)
-- 📊 GCI 2026 DataCamp Programme — active participant
+- 📊 GCI World 2026 Programme — August 2026
 - 👩🏾‍💻 DataCamp | Women in Data 2026 — active participant
 - 🔬 DataCamp DataLab: International Debt Statistics · Netflix Movies · Students' Mental Health
 
